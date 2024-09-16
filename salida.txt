@@ -1,0 +1,4 @@
+El temps estimat de vol entre l'Aeroport de Barcelona-El Prat i l'Aeroport de Madrid-Barajas és de: 32.2221 minuts.
+El temps estimat de vol entre l'Aeroport de Madrid-Barajas i l'Aeroport de Sevilla és de: 26.3231 minuts.
+El temps estimat de vol entre l'Aeroport de Barcelona-El Prat i l'Aeroport de Sevilla és de: 53.9764 minuts.
+El vol més curt és entre Madrid i Sevilla, amb una durada de 26.3231 minuts.
